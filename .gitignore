@@ -1,0 +1,25 @@
+# Local client data and generated outputs
+client-profile.md
+SEO-AUDIT.md
+SEO-ACTION-PLAN.md
+KEYWORD-MAP.csv
+CONTENT-BRIEFS/
+MARKETING-AUDIT.md
+MARKETING-ACTION-PLAN.md
+CHANNEL-MAP.csv
+channel-export.normalized.json
+
+# Python and test artefacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Secrets and editor files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
